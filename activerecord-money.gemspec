@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Activerecord::Money::VERSION
   gem.authors       = ["Vlad Verestiuc"]
   gem.email         = ["vlad.verestiuc@me.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{ActiveRecord wrapper for money gem}
+  gem.summary       = %q{ActiveRecord wrapper for money gem}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
